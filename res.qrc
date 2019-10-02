@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background.png</file>
+        <file>images/exportpdf.png</file>
+        <file>images/filenew.png</file>
+        <file>images/fileopen.png</file>
+        <file>images/fileprint.png</file>
+        <file>images/filesave.png</file>
+        <file>images/textbold.png</file>
+        <file>images/textcenter.png</file>
+        <file>images/textitalic.png</file>
+        <file>images/textjustify.png</file>
+        <file>images/textleft.png</file>
+        <file>images/textright.png</file>
+        <file>images/textunder.png</file>
+        <file>images/zoomin.png</file>
+        <file>images/zoomout.png</file>
+        <file>images/glabels-barcode.png</file>
+        <file>images/glabels-box.png</file>
+        <file>images/glabels-ellipse.png</file>
+        <file>images/glabels-image.png</file>
+        <file>images/glabels-line.png</file>
+        <file>images/glabels-text.png</file>
+        <file>images/button_cancel.png</file>
+        <file>images/viewmagfit.png</file>
+        <file>images/checkerboard.png</file>
+    </qresource>
+</RCC>

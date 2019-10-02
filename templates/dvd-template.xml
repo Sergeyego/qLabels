@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Glabels-templates xmlns="http://snaught.com/glabels/2.0/">
+  <Template name="DVD Template" size="A4" description="DVD front">
+    <Label-rectangle id="0" width="184mm" height="274mm" round="0pt" x_waste="0pt" y_waste="0pt">
+      <Markup-margin size="40pt"/>
+      <Markup-line x1="0mm" y1="130mm" x2="517.74pt" y2="130mm"/>
+      <Markup-line x1="0mm" y1="144mm" x2="517.74pt" y2="144mm"/>
+      <Layout nx="1" ny="1" x0="40pt" y0="40pt" dx="184mm" dy="274mm"/>
+    </Label-rectangle>
+  </Template>
+</Glabels-templates>
